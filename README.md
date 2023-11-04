@@ -1,4 +1,4 @@
-# Interview Scheduler API
+# Interview Scheduler API Build using Express
 
 ## Setup
 
